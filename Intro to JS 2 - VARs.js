@@ -1,6 +1,6 @@
 /// AUTHOR: TMRM
 /// CONTRIBUTORS:   
-// PROJECT: Intro to JS - 1
+// PROJECT: Intro to JS 2 - VARs
 /// VER: 1.0
 /// DATE: 06-XX-2021
 

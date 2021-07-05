@@ -1,6 +1,6 @@
 /// AUTHOR: TMRM
 /// CONTRIBUTORS:   
-// PROJECT: Intro to JS - 1
+// PROJECT: Intro to JS 3 - LOOPs
 /// VER: 1.0
 /// DATE: 06-XX-2021
 

@@ -1,6 +1,6 @@
 /// AUTHOR: TMRM
 /// CONTRIBUTORS:   
-// PROJECT: Intro to JS - 1
+// PROJECT: Intro to JS 4 - FUNCTIONs
 /// VER: 1.0
 /// DATE: 06-XX-2021
 
