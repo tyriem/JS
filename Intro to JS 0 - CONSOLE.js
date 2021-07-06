@@ -1,6 +1,6 @@
 /// AUTHOR: TMRM
 /// CONTRIBUTORS:   
-// PROJECT: Intro to JS 0 - ALERTs
+// PROJECT: Intro to JS 0 - CONSOLE
 /// VER: 1.0
 /// DATE: 06-XX-2021
 
@@ -10,4 +10,4 @@
 ///  OBJECTIVE /// 
 
 
-alert('hello world!');
+console.log('hello world!');
